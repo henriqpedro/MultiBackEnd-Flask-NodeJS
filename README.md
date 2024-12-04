@@ -105,11 +105,3 @@ curl -X POST http://localhost:3000/ \
   }
   ```
 - **Retorno**: String com o script SQL gerado.
-
----
-
----
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar.
