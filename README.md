@@ -51,18 +51,13 @@ Este repositório contém dois backends, um em **Node.js** e outro em **Flask**,
 
 ### Passo 2: Configurar o Servidor Flask
 1. Navegue até a pasta `flask`.
-2. Crie e ative um ambiente virtual:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate # No Windows: venv\Scripts\activate
-   ```
-3. Instale as dependências:
+2. Instale as dependências:
    ```bash
    pip install pandas
    pip install flask
    pip install openpyxl  
    ```
-4. Inicie o servidor:
+3. Inicie o servidor:
    ```bash
    python main.py
    ```
